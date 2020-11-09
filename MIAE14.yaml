@@ -1,0 +1,168 @@
+project_name : "MIAE14REDO_InDrops"
+project_dir : "/n/scratch2/bf78/MIASingleCell/MIA14REDO"
+sequencing_runs :
+  - name : "MIA2_1"
+    version : 'v3'
+    dir : "/n/groups/neuroduo/brian/MIAraw/MIA2/MIA2_082718/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSBME14", library_index: "AGAGGATA"}
+      - {library_name: "PBSBFE14", library_index: "TATGCAGT"}
+      - {library_name: "PBSBFE14", library_index: "TACTCCTT"}
+      - {library_name: "MIABME14", library_index: "AGGCTTAG"}
+      - {library_name: "MIABME14", library_index: "ATTAGACG"}
+      - {library_name: "PBSBME14", library_index: "CTCCTTAC"}
+      - {library_name: "MIABFE14", library_index: "CTAGTCGA"}
+  - name : "MIA2_2"
+    version : 'v3'
+    dir : "/n/groups/neuroduo/brian/MIAraw/MIA2/MIA2_082818/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSBME14", library_index: "AGAGGATA"}
+      - {library_name: "PBSBFE14", library_index: "TATGCAGT"}
+      - {library_name: "PBSBFE14", library_index: "TACTCCTT"}
+      - {library_name: "MIABME14", library_index: "AGGCTTAG"}
+      - {library_name: "MIABME14", library_index: "ATTAGACG"}
+      - {library_name: "PBSBME14", library_index: "CTCCTTAC"}
+      - {library_name: "MIABFE14", library_index: "CTAGTCGA"}
+  - name : "MIA2_3"
+    version : 'v3'
+    dir : "/n/groups/neuroduo/brian/MIAraw/MIA2/MIA2_082918/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSBME14", library_index: "AGAGGATA"}
+      - {library_name: "PBSBFE14", library_index: "TATGCAGT"}
+      - {library_name: "PBSBFE14", library_index: "TACTCCTT"}
+      - {library_name: "MIABME14", library_index: "AGGCTTAG"}
+      - {library_name: "MIABME14", library_index: "ATTAGACG"}
+      - {library_name: "PBSBME14", library_index: "CTCCTTAC"}
+      - {library_name: "MIABFE14", library_index: "CTAGTCGA"}
+  - name : "MIA2_4"
+    version : 'v3'
+    dir : "/n/groups/neuroduo/brian/MIAraw/MIA2/MIA2_091818/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSBME14", library_index: "AGAGGATA"}
+      - {library_name: "PBSBFE14", library_index: "TATGCAGT"}
+      - {library_name: "PBSBFE14", library_index: "TACTCCTT"}
+      - {library_name: "MIABME14", library_index: "AGGCTTAG"}
+      - {library_name: "MIABME14", library_index: "ATTAGACG"}
+      - {library_name: "PBSBME14", library_index: "CTCCTTAC"}
+      - {library_name: "MIABFE14", library_index: "CTAGTCGA"}
+  - name : "MIA2_5"
+    version : 'v3'
+    dir : "/n/groups/neuroduo/brian/MIAraw/MIA2/MIA2_110218/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSBME14", library_index: "AGAGGATA"}
+      - {library_name: "PBSBFE14", library_index: "TATGCAGT"}
+      - {library_name: "PBSBFE14", library_index: "TACTCCTT"}
+      - {library_name: "MIABME14", library_index: "AGGCTTAG"}
+      - {library_name: "MIABME14", library_index: "ATTAGACG"}
+      - {library_name: "PBSBME14", library_index: "CTCCTTAC"}
+      - {library_name: "MIABFE14", library_index: "CTAGTCGA"}      
+  - name : "MIA2_6"
+    version : 'v3'
+    dir : "/n/groups/neuroduo/brian/MIAraw/MIA2/MIA2_102319/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSBME14", library_index: "AGAGGATA"}
+      - {library_name: "PBSBFE14", library_index: "TATGCAGT"}
+      - {library_name: "PBSBFE14", library_index: "TACTCCTT"}
+      - {library_name: "MIABME14", library_index: "AGGCTTAG"}
+      - {library_name: "MIABME14", library_index: "ATTAGACG"}
+      - {library_name: "PBSBME14", library_index: "CTCCTTAC"}
+      - {library_name: "MIABFE14", library_index: "CTAGTCGA"}   
+  - name : "MIA2_7"
+    version : 'v3'
+    dir : "/n/groups/neuroduo/brian/MIAraw/MIA2/MIA2_102419/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSBME14", library_index: "AGAGGATA"}
+      - {library_name: "PBSBFE14", library_index: "TATGCAGT"}
+      - {library_name: "PBSBFE14", library_index: "TACTCCTT"}
+      - {library_name: "MIABME14", library_index: "AGGCTTAG"}
+      - {library_name: "MIABME14", library_index: "ATTAGACG"}
+      - {library_name: "PBSBME14", library_index: "CTCCTTAC"}
+      - {library_name: "MIABFE14", library_index: "CTAGTCGA"} 
+  - name : "MIAE14REDO_1_redo"
+    version : 'v3'
+    dir : "/n/scratch2/bf78/MIASingleCell/MIA14REDO/REDO1/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSCME14", library_index: "ATAGAGAG"}
+      - {library_name: "PBSCFE14", library_index: "CTCCTTAC"}
+      - {library_name: "PBSCFE14", library_index: "TATGCAGT"}
+      - {library_name: "MIACME14", library_index: "TACTCCTT"}
+      - {library_name: "MIACME14", library_index: "AGGCTTAG"}
+      - {library_name: "PBSCME14", library_index: "AGAGGATA"}
+      - {library_name: "MIACFE14", library_index: "ATTAGACG"}
+      - {library_name: "MIACFE14", library_index: "CGGAGAGA"}    
+  - name : "MIAE14REDO_2_redo"
+    version : 'v3'
+    dir : "/n/scratch2/bf78/MIASingleCell/MIA14REDO/REDO2/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSCME14", library_index: "ATAGAGAG"}
+      - {library_name: "PBSCFE14", library_index: "CTCCTTAC"}
+      - {library_name: "PBSCFE14", library_index: "TATGCAGT"}
+      - {library_name: "MIACME14", library_index: "TACTCCTT"}
+      - {library_name: "MIACME14", library_index: "AGGCTTAG"}
+      - {library_name: "PBSCME14", library_index: "AGAGGATA"}
+      - {library_name: "MIACFE14", library_index: "ATTAGACG"}
+      - {library_name: "MIACFE14", library_index: "CGGAGAGA"}     
+  - name : "MIAE14REDO_3_redo"
+    version : 'v3'
+    dir : "/n/scratch2/bf78/MIASingleCell/MIA14REDO/REDO3/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSCME14", library_index: "ATAGAGAG"}
+      - {library_name: "PBSCFE14", library_index: "CTCCTTAC"}
+      - {library_name: "PBSCFE14", library_index: "TATGCAGT"}
+      - {library_name: "MIACME14", library_index: "TACTCCTT"}
+      - {library_name: "MIACME14", library_index: "AGGCTTAG"}
+      - {library_name: "PBSCME14", library_index: "AGAGGATA"}
+      - {library_name: "MIACFE14", library_index: "ATTAGACG"}
+      - {library_name: "MIACFE14", library_index: "CGGAGAGA"}    
+  - name : "MIAE14REDO_4_redo"
+    version : 'v3'
+    dir : "/n/scratch2/bf78/MIASingleCell/MIA14REDO/REDO4/Data/Intensities/BaseCalls"
+    fastq_path : "Undetermined_S0_{split_affix}_{read}_001.fastq"
+    split_affixes : ["L001", "L002", "L003", "L004"]
+    libraries :
+      - {library_name: "PBSCME14", library_index: "ATAGAGAG"}
+      - {library_name: "PBSCFE14", library_index: "CTCCTTAC"}
+      - {library_name: "PBSCFE14", library_index: "TATGCAGT"}
+      - {library_name: "MIACME14", library_index: "TACTCCTT"}
+      - {library_name: "MIACME14", library_index: "AGGCTTAG"}
+      - {library_name: "PBSCME14", library_index: "AGAGGATA"}
+      - {library_name: "MIACFE14", library_index: "ATTAGACG"}
+      - {library_name: "MIACFE14", library_index: "CGGAGAGA"}   
+paths :
+  bowtie_index : "/n/groups/neuroduo/Aurel/genomes/indrops/default/Mus_musculus.GRCm38.dna_sm.primary_assembly.annotated"
+  python_dir : "/n/groups/neuroduo/brian/pyndrops/bin"
+  samtools_dir: "/n/groups/neuroduo/brian/SAMTOOLS_DIR/samtools-1.3.1/bin"
+
+parameters :
+  bowtie_arguments:
+    m : 200
+    n : 1
+    l : 15
+    e : 100
+  trimmomatic_arguments:
+    LEADING: "28"
+    SLIDINGWINDOW: "4:20"
+    MINLEN: "16"
+    argument_order: ['LEADING', 'SLIDINGWINDOW', 'MINLEN']
+  low_complexity_filter_arguments:
+    max_low_complexity_fraction : 0.50
