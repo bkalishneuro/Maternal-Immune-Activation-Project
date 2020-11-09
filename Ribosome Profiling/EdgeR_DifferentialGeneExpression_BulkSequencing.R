@@ -52,3 +52,4 @@ FDR_InteractionTerm <- p.adjust(qlf_InteractionTerm$table$PValue, method="BH")
 qlf_InteractionTerm_FDR <- cbind(qlf_InteractionTerm$table,FDR_InteractionTerm)
 write.table(qlf_InteractionTerm_FDR, file = "Normalized_EdgeR_Ribo_E18_InteractionTerm_QValues.tsv", sep="\t", col.names=NA)
 
+#Repeat for Ribo-seq counts files
