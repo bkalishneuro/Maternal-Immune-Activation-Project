@@ -1,5 +1,5 @@
 # Maternal-Immune-Activation-Project
-This repository organizes custom code used in the Kalish et al. Nature Neuroscience manuscript "Maternal Immune Activation Disrupts Proteostasis in the Fetal Brain"
+This repository organizes custom code used by Brian Kalish and Benjamin Finander to analyze data for the manuscript, "Maternal Immune Activation in Mice Disrupts Proteostasis in the Fetal Brain"
 
 The code is organized by analysis: Ribosome Profiling and scRNA-seq
 
